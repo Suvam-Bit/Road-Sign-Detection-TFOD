@@ -19,6 +19,8 @@ The classes are:
 
 ## Analysis
 1. The analysis has been done on `Google Colab Environment`
+    - Model Training has been done on the notebook `TFOD_RoadSign_Train_The_Model.ipynb`
+    - Model Inferencing has been done on the notebook `TFOD_RoadSign_Using_Pretrained_Model.ipynb`
 
 
 2. Train Test Split
